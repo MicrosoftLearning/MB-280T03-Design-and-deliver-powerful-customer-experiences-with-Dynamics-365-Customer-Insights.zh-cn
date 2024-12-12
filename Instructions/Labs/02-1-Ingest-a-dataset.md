@@ -100,7 +100,7 @@ Contoso Coffee 已选派你作为项目经理，以在 Contoso Coffee 中实现 
 2. 选择“**+ 添加数据源**”，选择 **Microsoft Power Query** 并将源命名为 *PoS*，然后选择**下一步。**
 3. 选择**文本/CSV** 连接器。
 4. 输入 https://aka.ms/CI-ILT/POSPurchases 作为文件路径或 URL。 选择**下一步**，然后选择**转换数据。**
-5. 如前所述，选择**转换**，然后选择**使用第一行作为标题。**
+5. 如前所述，选择**转换，** 然后选择**使用第一行作为标题。**
 6. 更新这些列的数据类型：
    - **PurchasedOn**：日期
    - **TotalPrice**：货币
